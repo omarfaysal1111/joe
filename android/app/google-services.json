@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "576298614511",
+    "project_id": "eye-can-60b59",
+    "storage_bucket": "eye-can-60b59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576298614511:android:baf17afb6f77e85ed6251a",
+        "android_client_info": {
+          "package_name": "com.eye.eye_can"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576298614511-fvebkr2a402p7i1kqpaqfqa3a4bo9c2b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY2IGYrnkkx4ELlKoH--JRm5OXC0KRkgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576298614511-fvebkr2a402p7i1kqpaqfqa3a4bo9c2b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "576298614511-papp5plukmq4c0c4tc6ofcjf053jioic.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.eye.eyeCan"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
